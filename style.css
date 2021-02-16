@@ -1,0 +1,68 @@
+.titulo {
+font-size: 90px;
+color: black;
+text-align: center;
+margin-top: 200px;
+box-shadow: 10px;
+}
+
+.descricao {
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+    padding: none;
+    font-weight: bold;
+    margin-top: 150px;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    background-image: url(images/BI.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.botao {
+    background-color: rgba(9, 116, 9, 0.7);
+    padding: 10px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    margin-bottom: 150px;
+    border-radius: 10%;
+}
+
+.botao:hover {
+    background-color: rgba(9, 116, 9, 0.9);;
+}
+
+
+.redes {
+    list-style-type: none;
+    padding: 0px;
+    display: inline;
+    margin-top: 150px;
+}
+
+.linkdin {
+    max-width: 50px;
+    max-height: 50px;
+    width: auto;
+    height: auto;
+    border-radius: 20%;
+}
+
+.github {
+    max-width: 50px;
+    max-height: 50px;
+    width: auto;
+    height: auto;
+    border-radius: 20%;
+}
+
+li {
+    display: inline;
+    text-align: center;
+}
